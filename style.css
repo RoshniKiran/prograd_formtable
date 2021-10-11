@@ -1,0 +1,25 @@
+table
+{
+  border-collapse:collapse;
+  width:60%;
+}
+#c1
+{
+text-align:right;
+  margin-right:400px;
+}
+#c2
+{
+  background:skyblue
+}
+input
+{
+  border:none;
+}
+td{
+  padding:2px;
+}
+td, h2{
+  text-align:center;
+}
+
